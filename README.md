@@ -1,1 +1,1 @@
-Code I have written for school or work.
+Code I have written for school, work, or fun.
