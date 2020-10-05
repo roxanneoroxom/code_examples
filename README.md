@@ -1,1 +1,1 @@
-Examples of code I alone have written for school or work.
+Examples of code I have written for school or work.
